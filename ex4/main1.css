@@ -1,0 +1,25 @@
+div{
+    color: red !important; /*점수 무한대*/
+} 
+
+#color_yellow{ 
+    color: yellow; /* 100pt */
+}
+
+.color_green{
+    color: greenyellow; /* 10pt*/
+}
+
+div{
+    color: blue; /*1pt*/
+}
+
+*{
+    color: darkgoldenrod; /*0pt*/
+}
+
+body{
+    color: blueviolet; /*점수 없음*/
+}
+
+
